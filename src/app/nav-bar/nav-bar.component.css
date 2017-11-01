@@ -1,0 +1,37 @@
+
+*{
+  font-family: Arial,sans-serif;
+
+}
+ul li
+{
+  font-size: 13px;
+  text-decoration-color: grey;
+ cursor: pointer;
+  padding: 8px;
+  display: inline-block;
+}
+ul{
+  float: right;
+}
+ul li:hover{
+  text-decoration: underline;
+}
+
+img1:hover
+{
+/*src ="../../assets/images/googleappimage2.png"*/
+}
+
+.signin
+{
+  cursor: pointer;
+  border-radius: 2px;
+  padding: 6px;
+  color: white;
+  border: 1px solid #4285f4;
+  font-weight: bold;
+  outline: none;
+  background: #4285f4;
+  background: -webkit-linear-gradient(top,#4387fd,#4683ea);
+}
